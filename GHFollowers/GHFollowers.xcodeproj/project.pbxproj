@@ -27,6 +27,7 @@
 		A12C795523CBC0440002DF9F /* GFTitleLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A12C795423CBC0440002DF9F /* GFTitleLabel.swift */; };
 		A12C795723CBC1910002DF9F /* GFBodyLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A12C795623CBC1910002DF9F /* GFBodyLabel.swift */; };
 		A12C795923CBC2560002DF9F /* GFAlertVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = A12C795823CBC2560002DF9F /* GFAlertVC.swift */; };
+		A1A3FF9B23DE303600D94BF5 /* UIHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1A3FF9A23DE303600D94BF5 /* UIHelper.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -52,6 +53,7 @@
 		A12C795423CBC0440002DF9F /* GFTitleLabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFTitleLabel.swift; sourceTree = "<group>"; };
 		A12C795623CBC1910002DF9F /* GFBodyLabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFBodyLabel.swift; sourceTree = "<group>"; };
 		A12C795823CBC2560002DF9F /* GFAlertVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFAlertVC.swift; sourceTree = "<group>"; };
+		A1A3FF9A23DE303600D94BF5 /* UIHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIHelper.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -130,6 +132,7 @@
 			isa = PBXGroup;
 			children = (
 				A12594A523CDF1AD00CDD404 /* ErrorMessage.swift */,
+				A1A3FF9A23DE303600D94BF5 /* UIHelper.swift */,
 			);
 			path = Utilities;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 				A12C795523CBC0440002DF9F /* GFTitleLabel.swift in Sources */,
 				A12C795323CBB86A0002DF9F /* FollowerListVC.swift in Sources */,
 				A12594A623CDF1AD00CDD404 /* ErrorMessage.swift in Sources */,
+				A1A3FF9B23DE303600D94BF5 /* UIHelper.swift in Sources */,
 				A10FC14723CCCB7800A2873D /* NetworkManager.swift in Sources */,
 				A12C795123CBAE110002DF9F /* GFTextField.swift in Sources */,
 				A12C795723CBC1910002DF9F /* GFBodyLabel.swift in Sources */,
